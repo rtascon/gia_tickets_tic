@@ -1,0 +1,1511 @@
+{
+    "codigos": {
+        "AMGREDAUTSW1BREIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BSEIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1OSTIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICLIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICTIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1UPNIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BREIP17": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BSEIP17": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1OSTIP17": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICLIP17": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICTIP17": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1UPNIP17": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BREIP19": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BSEIP19": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1OSTIP19": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICLIP19": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICTIP19": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1UPNIP19": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BREIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BSEIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1OSTIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICLIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICTIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1UPNIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BREIP21": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BSEIP21": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1OSTIP21": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICLIP21": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICTIP21": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1UPNIP21": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BREIP22": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BSEIP22": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1OSTIP22": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICLIP22": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICTIP22": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1UPNIP22": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BREIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BSEIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1OSTIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICLIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICTIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1UPNIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BREIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1BSEIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1OSTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICLIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1ICTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW1UPNIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 19,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2BREIP1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2BSEIP1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2OSTIP1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2ICLIP1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2ICTIP1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2UPNIP1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2BREIP2": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2BSEIP2": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2OSTIP2": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2ICLIP2": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2ICTIP2": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2UPNIP2": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2BREIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2BSEIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2OSTIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2ICLIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2ICTIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2UPNIP23": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2BREIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2BSEIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2OSTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2ICLIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2ICTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW2UPNIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 14,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3BREIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3BSEIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3OSTIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3ICLIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3ICTIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3UPNIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3BREIP8": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3BSEIP8": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3OSTIP8": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3ICLIP8": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3ICTIP8": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3UPNIP8": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3BREIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3BSEIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3OSTIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3ICLIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3ICTIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3UPNIP20": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3BREIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3BSEIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3OSTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3ICLIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3ICTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW3UPNIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 15,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW4BREIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 16,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW4BSEIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 16,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW4OSTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 16,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW4ICLIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 16,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW4ICTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 16,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW4UPNIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 16,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW5BREIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 18,
+            "id_categoria": 3473,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW5BSEIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 18,
+            "id_categoria": 3474,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW5OSTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 18,
+            "id_categoria": 3475,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW5ICLIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 18,
+            "id_categoria": 3476,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW5ICTIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 18,
+            "id_categoria": 3477,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTSW5UPNIP24": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 18,
+            "id_categoria": 3478,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1HWTIG": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3463,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1HWFIG": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3464,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1HWPIG": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3465,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1CPUIG": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3466,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1RAMIG": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3467,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1UPIG": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3468,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1VPSIC": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3469,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1VPTI1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3470,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1VPTI2": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3470,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1VPTI3": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3470,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1VPTI4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3470,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1VPTI5": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3470,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1VPTI6": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3470,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1VPTI7": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3470,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BREIP1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3471,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BSEIP1": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3472,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BREIP3": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3471,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BSEIP3": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3472,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BREIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3471,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BSEIP4": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3472,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BREIP11": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3471,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BSEIP11": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3472,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BREIP15": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3471,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BSEIP15": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3472,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BREIP16": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3471,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTFW1BSEIP16": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 20,
+            "id_categoria": 3472,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP1CPUI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 21,
+            "id_categoria": 3486,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP1RAMI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 21,
+            "id_categoria": 3487,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP1ICTI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 21,
+            "id_categoria": 3488,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP1ICLI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 21,
+            "id_categoria": 3489,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP1OSEI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 21,
+            "id_categoria": 3490,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP1BREI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 21,
+            "id_categoria": 3491,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP1BSEI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 21,
+            "id_categoria": 3492,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP2CPUI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 22,
+            "id_categoria": 3486,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP2RAMI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 22,
+            "id_categoria": 3487,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP2ICTI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 22,
+            "id_categoria": 3488,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP2ICLI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 22,
+            "id_categoria": 3489,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP2OSEI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 22,
+            "id_categoria": 3490,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP2BREI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 22,
+            "id_categoria": 3491,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP2BSEI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 22,
+            "id_categoria": 3492,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP3CPUI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 23,
+            "id_categoria": 3486,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP3RAMI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 23,
+            "id_categoria": 3487,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP3ICTI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 23,
+            "id_categoria": 3488,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP3ICLI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 23,
+            "id_categoria": 3489,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP3OSEI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 23,
+            "id_categoria": 3490,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP3BREI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 23,
+            "id_categoria": 3491,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP3BSEI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 23,
+            "id_categoria": 3492,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP4CPUI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 24,
+            "id_categoria": 3486,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP4RAMI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 24,
+            "id_categoria": 3487,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP4ICTI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 24,
+            "id_categoria": 3488,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP4ICLI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 24,
+            "id_categoria": 3489,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP4OSEI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 24,
+            "id_categoria": 3490,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP4BREI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 24,
+            "id_categoria": 3491,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        },
+        "AMGREDAUTAP4BSEI": {
+            "id_ubicacion": 6,
+            "id_entidad": 42,
+            "id_activo": 24,
+            "id_categoria": 3492,
+            "id_grupo_asignado": 2,
+            "id_observador": 6,
+            "id_tipo": 1
+        }
+    },
+    "activos": {
+        "19": "SWITCH CORE",
+        "14": "SWITCH SERVIDORES 1",
+        "15": "SWITCH USUARIO #1",
+        "16": "SWITCH USUARIO #2",
+        "18": "SWITCH USUARIO #3",
+        "20": "Firewall Forti",
+        "21": "ACCESS POINT PRODUCCION AP1 (GP) TELCO",
+        "22": "ACCESS POINT PRODUCCION AP2 (VENTAS) TELCO",
+        "23": "ACCESS POINT PRODUCCION AP3 (TI) TELCO",
+        "24": "ACCESS POINT PRODUCCION AP4 (DATACENTER) TELCO"
+    },
+    "ubicaciones": {
+        "6": "Torre La Noria"
+    },
+    "entidades": {
+        "42": "AMAGI"
+    },
+    "categorias": {
+        "3473": "Bits receives Ethernet",
+        "3474": "Bits sent Ethernet",
+        "3475": "Operational Status",
+        "3476": "ICMP Loss",
+        "3477": "ICMP response time",
+        "3478": "Uptime network",
+        "3463": "HW Temperatura",
+        "3464": "HW Fan cooler",
+        "3465": "HW Power Supply",
+        "3466": "CPU usado",
+        "3467": "RAM usada",
+        "3468": "Uptime",
+        "3469": "VPN SSL",
+        "3470": "VPN Tunnel",
+        "3471": "Bits receives Ethernet",
+        "3472": "Bits sent Ethernet",
+        "3486": "CPU usado",
+        "3487": "RAM usada",
+        "3488": "ICMP response time",
+        "3489": "ICMP Loss",
+        "3490": "Operational Status Ethernet",
+        "3491": "Bits receives Ethernet",
+        "3492": "Bits sent Ethernet"
+    },
+    "grupos": {
+        "2": "Telecomunicaciones"
+    },
+    "observadores": {
+        "6": "Centro de gestión"
+    }
+}
